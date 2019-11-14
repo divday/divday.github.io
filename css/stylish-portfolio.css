@@ -161,7 +161,7 @@ a:active {
 }
 
 #splash-btn {
-  background-color: #45265f;
+  background-color: #f44072;
 }
 
 #splash-date-text {
@@ -180,7 +180,7 @@ a:active {
 /* ////////////////////////////// */
 
 .navbar {
-  background-color: #45265f;
+  background-color: #f44072;
   color: white;
 }
 
@@ -448,7 +448,7 @@ footer.footer .social-link:hover {
 
 /* Speaker Bio Section */
 
-.speaker-navy {
+.speaker-darkPurple {
   background-color: #45265f;
 }
 
