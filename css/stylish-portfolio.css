@@ -4,7 +4,10 @@
 /* Red: #F13C20 */
 /* Navy: #4056A1 */
 /* Light Blue: #C5CBE3 */
-
+/*Cyan: #5ce1e6 */
+/*Yellow: #ffde59 */
+/*Magenta: #f44072 */
+/*Dark Purple: #45265f */
 body,
 html {
   width: 100%;
@@ -158,7 +161,7 @@ a:active {
 }
 
 #splash-btn {
-  background-color: #4056A1;
+  background-color: #45265f;
 }
 
 #splash-date-text {
@@ -177,7 +180,7 @@ a:active {
 /* ////////////////////////////// */
 
 .navbar {
-  background-color: #4056A1;
+  background-color: #45265f;
   color: white;
 }
 
@@ -433,7 +436,7 @@ footer.footer .social-link:hover {
 }
 
 .team-ltan {
-  background-color: #EFE2BA;
+  background-color: #ffde59;
 }
 
 .card-border {
@@ -446,7 +449,7 @@ footer.footer .social-link:hover {
 /* Speaker Bio Section */
 
 .speaker-navy {
-  background-color: #4056A1;
+  background-color: #45265f;
 }
 
 .white-text {
