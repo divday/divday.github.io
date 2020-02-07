@@ -311,19 +311,19 @@ footer.footer {
   padding-bottom: 5rem;
 }
 
-footer.footer .social-link {
+.social-link {
   display: block;
   height: 4rem;
   width: 4rem;
   line-height: 4.3rem;
   font-size: 1.5rem;
-  background-color: #0d8499;
+  background-color: #f44072;
   transition: background-color 0.15s ease-in-out;
   box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
 }
 
-footer.footer .social-link:hover {
-  background-color: #155d74;
+.social-link:hover {
+  background-color: #5ce1e6;
   text-decoration: none;
 }
 
